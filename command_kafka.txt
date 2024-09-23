@@ -1,6 +1,5 @@
 Provide 
 
-
 wget https://downloads.apache.org/kafka/3.5.2/kafka_2.13-3.5.2.tgz
 tar -xvf kafka_2.13-3.5.2.tgz
 
